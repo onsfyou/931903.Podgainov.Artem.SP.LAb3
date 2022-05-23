@@ -1,0 +1,2 @@
+﻿  WindowsProject2.cpp
+D:\Visual Studio Apps\System programming\WindowsProject2\WindowsProject2\WindowsProject2.cpp(186,27): error C4996: 'ID2D1Factory::GetDesktopDpi': Deprecated. Use DisplayInformation::LogicalDpi for Windows Store Apps or GetDpiForWindow for desktop apps.
